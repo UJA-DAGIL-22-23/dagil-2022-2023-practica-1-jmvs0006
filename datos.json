@@ -1,0 +1,12 @@
+{
+    "nombre":"Juan Manuel",
+    "apellidos": "Valcárcel Sánchez",
+    "foto":"/foto.jpg",
+    "enlaces":[
+      {
+        "correo":"jmvs0006@red.ujaen.es",
+        "github":"https://github.com/jmvs0006/",
+        "trello":"https://trello.com/jmvs0006"
+      }
+    ]
+  }
