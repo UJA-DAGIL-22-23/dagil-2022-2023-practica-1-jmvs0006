@@ -6,7 +6,7 @@ Tus tareas consisten en:
 2) Añadir un fichero <code>datos.json</code> en el que se almacenen los mismos datos (incluída la URL de la imagen) en formato [JSON](https://es.wikipedia.org/wiki/JSON).
 
 ### Juan Manuel Valcárcel Sánchez
-<img src='' width='200px'>
+<img src='/foto.jpg' width='200px'>
 
 Alumno de Ingeniería Informática de la Universidad de Jaén.
 * **Correo**: jmvs0006@red.ujaen.es
