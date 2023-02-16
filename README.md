@@ -7,6 +7,8 @@ Tus tareas consisten en:
 
 ### Juan Manuel Valcárcel Sánchez
 <img src='/foto.jpg' width='200px'>
+Tablero de trello inical:
+<img src='/trello_antes.jpg' width='200px'>
 
 Alumno de Ingeniería Informática de la Universidad de Jaén.
 * **Correo**: jmvs0006@red.ujaen.es
