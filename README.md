@@ -7,10 +7,12 @@ Tus tareas consisten en:
 
 ### Juan Manuel Valcárcel Sánchez
 <img src='/foto.jpg' width='200px'>
+
 Tablero de trello inical:
 <img src='/trello_antes.png' width='200px'>
 
 Tablero de trello final:
+
 <img src='/trello_despues.png' width='200px'>
 
 Alumno de Ingeniería Informática de la Universidad de Jaén.
