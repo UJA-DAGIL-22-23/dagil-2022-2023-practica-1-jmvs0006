@@ -11,4 +11,4 @@ Tus tareas consisten en:
 Alumno de Ingeniería Informática de la Universidad de Jaén.
 * **Correo**: jmvs0006@red.ujaen.es
 * **GitHub**: https://github.com/jmvs0006/
-* **Trello**: https://trello.com/jmvs0006
+* **Trello**: https://trello.com/b/g69bc5hk/da-práctica-1
