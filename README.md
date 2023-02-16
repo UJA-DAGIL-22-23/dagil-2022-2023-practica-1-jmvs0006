@@ -9,6 +9,7 @@ Tus tareas consisten en:
 <img src='/foto.jpg' width='200px'>
 
 Tablero de trello inical:
+
 <img src='/trello_antes.png' width='200px'>
 
 Tablero de trello final:
