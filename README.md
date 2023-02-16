@@ -10,6 +10,9 @@ Tus tareas consisten en:
 Tablero de trello inical:
 <img src='/trello_antes.jpg' width='200px'>
 
+Tablero de trello final:
+<img src='/trello_despues.jpg' width='200px'>
+
 Alumno de Ingeniería Informática de la Universidad de Jaén.
 * **Correo**: jmvs0006@red.ujaen.es
 * **GitHub**: https://github.com/jmvs0006/
